@@ -4,20 +4,20 @@ Python data analysis for data scientists and data analyst
 
 <br/>
 
-Operating systen:
-Windows 10
+Operating system:<br/>
+<b>Windows 10</b>
 
 <br/>
 
-Working environment:
-Anaconda3
+Working environment:<br/>
+<b>Anaconda3</b>
 
 <br/>
 
-Notepad:
-Jupyter Notebook
+Notepad:<br/>
+<b>Jupyter Notebook</b>
 
 <br/>
 
-Missng libs in Anaconda:
+Missing libs in Anaconda:<br/>
 conda install -c anaconda [libs_name] 
